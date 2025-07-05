@@ -1,4 +1,4 @@
-
+!pip install scapy python-nmap
 import os
 import time
 from scapy.all import ARP, Ether, srp
